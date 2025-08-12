@@ -1,12 +1,17 @@
 [
- {
-  "ID": 2,
-  "Description": "beber agua",
-  "Completed": false
- },
- {
-  "ID": 3,
-  "Description": "estudar python",
-  "Completed": false
- }
+  {
+    "ID": 2,
+    "Description": "beber agua",
+    "Completed": false
+  },
+  {
+    "ID": 4,
+    "Description": "estudar",
+    "Completed": true
+  },
+  {
+    "ID": 5,
+    "Description": "treinar",
+    "Completed": true
+  }
 ]
